@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DanilovAS.Sprint0.Task0.V0", "Tyuiu.DanilovAS.Sprint0.Task0.V0\Tyuiu.DanilovAS.Sprint0.Task0.V0.csproj", "{794FB829-3C14-462F-AD73-9091F427C321}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{5D21F24C-CC09-4EEE-9A8A-005FAB69178D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DanilovAS.Sprint0.Task1.V0", "Tyuiu.DanilovAS.Sprint0.Task1.V0\Tyuiu.DanilovAS.Sprint0.Task1.V0.csproj", "{30A6C054-DEE9-4EF4-9878-854208489D12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{794FB829-3C14-462F-AD73-9091F427C321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794FB829-3C14-462F-AD73-9091F427C321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794FB829-3C14-462F-AD73-9091F427C321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A6C054-DEE9-4EF4-9878-854208489D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A6C054-DEE9-4EF4-9878-854208489D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A6C054-DEE9-4EF4-9878-854208489D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A6C054-DEE9-4EF4-9878-854208489D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{794FB829-3C14-462F-AD73-9091F427C321} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{30A6C054-DEE9-4EF4-9878-854208489D12} = {5D21F24C-CC09-4EEE-9A8A-005FAB69178D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {35A35F57-293A-4F49-841B-FCD53C0FC1AB}
