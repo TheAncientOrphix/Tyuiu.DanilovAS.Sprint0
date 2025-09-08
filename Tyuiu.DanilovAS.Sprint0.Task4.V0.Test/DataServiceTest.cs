@@ -19,7 +19,7 @@ namespace Tyuiu.DanilovAS.Sprint0.Task4.V0.Test
         [TestMethod]
         public void CheckedMultiplicationValid()
         {
-            Assert.AreEqual(50, DataService.Multiplictation(10, 5));
+            Assert.AreEqual(50, DataService.Multiplication(10, 5));
         }
 
         [TestMethod]
